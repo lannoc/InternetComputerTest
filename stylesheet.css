@@ -1,0 +1,116 @@
+.wrapper{
+	width : 900px;
+	background-color: white;
+	height: 720px;
+}
+
+#header{
+	height: 150px;	
+	background-color: #d3d3d3;
+	color: grey;
+	padding-top: 50px;
+	text-align: center;
+	color: white;
+	width : 900px;
+}
+
+
+
+#content{
+	width: 700px;
+	margin-left: 0px;
+}
+
+#nav{
+	margin-right: 20px;
+	width: 200px;
+	background-color: grey;
+	color: red;
+	height: 500px;
+	float: left;
+	padding-top: 20px;
+}
+
+#section1{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	color: black;
+	margin-left: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	float: left;
+	border : 2px dashed black;
+}
+
+
+#section2{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	color: black;
+	margin-right: 30px;
+	float: left;
+	border : 2px dashed black;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#section3{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	color: black;
+	margin-left: 0px;
+	margin-right: 20px;
+	float: left;
+	border : 2px dashed black;
+}
+
+#section4{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	color: black;
+	float: left;
+	border : 2px dashed black;	
+}
+
+a{		
+	margin-left: 5px;
+	border-spacing: 5px;
+    display: block;
+	margin-right: 5px;
+	text-align: center;
+	color: white;
+}
+
+#topnav{
+	border : 1px solid white;
+	height: 30px;
+	margin-bottom: 5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#bottomnav{
+	border : 1px solid white;
+	height: 30px;
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+p{
+	text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
